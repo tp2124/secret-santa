@@ -3,6 +3,7 @@ A website to help people do secret santa.
 
 # Requirements
 `dotnet --version` >= 3.1.301
+
 Latest versions of the following as of 6/1/2020
 * VSCode
 * C# Extension in VSCode
