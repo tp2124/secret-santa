@@ -22,3 +22,8 @@ Not available.
 
 # How to Deploy
 Not available.
+
+# Notes
+* The `@page <name>` at the top of `.razor` files makes the files an endpoint for the website. This si neow required for components as you can make re-useable pieces that are not their own endpoint without this declaration.
+  * https://docs.microsoft.com/en-us/aspnet/core/tutorials/build-your-first-blazor-app?view=aspnetcore-3.1
+
