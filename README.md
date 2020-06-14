@@ -15,6 +15,10 @@ in `src/SecretSanta.App` run `dotnet build`
 
 # How to Test
 ## Locally
+### Setup
+1. Run the commands on (Enable Local Certs for HTTPS)[https://docs.microsoft.com/en-us/aspnet/core/security/enforcing-ssl?view=aspnetcore-3.1&tabs=visual-studio#troubleshoot-certificate-problems], to allow debugging of HTTPS hosting.
+
+### Debugging
 Use VSCode to run the launch.json configurations setup for Blazor.
 
 ## Remotely
